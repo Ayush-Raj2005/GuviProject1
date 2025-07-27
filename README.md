@@ -1,4 +1,4 @@
-# GuviProject1
+
 # Basic CSV File Analyzer With Python
 
 This project is a simple but powerful CSV data analyzer built using Python. It uses the Titanic dataset for cleaning, summarizing, and visualizing data with pandas, matplotlib, and seaborn.
