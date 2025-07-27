@@ -22,7 +22,7 @@ This project is a simple but powerful CSV data analyzer built using Python. It u
   - Class distribution pie chart
   - Age distribution histogram
 # Requirements
- -✅python
- -✅matplotlib
- -✅seaborn
+-✅python
+-✅matplotlib
+-✅seaborn
  
