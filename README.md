@@ -21,7 +21,7 @@ This project is a simple but powerful CSV data analyzer built using Python. It u
   - Survival counts overall, by gender, and by class
   - Class distribution pie chart
   - Age distribution histogram
-# Requirements
+## Requirements
 - ✅python
 - ✅matplotlib
 - ✅seaborn
