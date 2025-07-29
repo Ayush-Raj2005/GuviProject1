@@ -23,6 +23,7 @@ This project is a simple but powerful CSV data analyzer built using Python. It u
   - Age distribution histogram
 ## Requirements
 - ✅python
+- ✅pandas
 - ✅matplotlib
 - ✅seaborn
  
